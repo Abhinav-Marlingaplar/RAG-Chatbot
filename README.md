@@ -41,5 +41,32 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot power
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-chatbot-gemini.git
+git clone https://github.com/Abhinav-Marlingaplar/RAG-Chatbot.git
 cd rag-chatbot-gemini
+
+### 2. Install Dependencies
+It’s recommended to use a virtual environment.
+
+```bash
+pip install -r requirements.txt
+
+### 3. Add Your Gemini API Key
+Create a .env file and add your API key:
+
+```bash
+GOOGLE_API_KEY=your_gemini_api_key
+
+### 4. Run the Streamlit App
+
+```bash
+streamlit run app.py
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Author
+
+Abhinav Marlingaplar
+
+
