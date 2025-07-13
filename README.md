@@ -66,8 +66,8 @@ streamlit run app.py
 
 ## Sample Images of the RAG Chatbot
 <div style="display: flex; justify-content: center;">
-    <img src="images/screenshot1.png" alt="valid question" width="600"/>
-    <img src="images/screenshot2.png" alt="invalid question" width="600"/>
+    <img src="images/screenshot1.png" alt="valid question" width="800"/>
+    <img src="images/screenshot2.png" alt="invalid question" width="800"/>
 </div>
 
 ## License
