@@ -43,6 +43,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot power
 ```bash
 git clone https://github.com/Abhinav-Marlingaplar/RAG-Chatbot.git
 cd rag-chatbot-gemini
+```
 
 ### 2. Install Dependencies
 It’s recommended to use a virtual environment.
