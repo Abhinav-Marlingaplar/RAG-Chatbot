@@ -49,17 +49,23 @@ It’s recommended to use a virtual environment.
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Add Your Gemini API Key
 Create a .env file and add your API key:
 
 ```bash
 GOOGLE_API_KEY=your_gemini_api_key
+```
 
 ### 4. Run the Streamlit App
 
 ```bash
 streamlit run app.py
+```
+
+## Sample Images of the RAG Chatbot
+
 
 ## License
 
