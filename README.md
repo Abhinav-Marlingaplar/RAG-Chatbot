@@ -65,7 +65,7 @@ GOOGLE_API_KEY=your_gemini_api_key
 streamlit run app.py
 ```
 
-## Sample Images of the RAG Chatbot
+## Sample Screenshots of the RAG Chatbot
 <div style="display: flex; justify-content: center;">
     <img src="images/screenshot1.png" alt="valid question" width="800"/>
     <img src="images/screenshot2.png" alt="invalid question" width="800"/>
