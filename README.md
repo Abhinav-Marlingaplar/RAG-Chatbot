@@ -1,4 +1,4 @@
-# 🤖 RAG-Based Chatbot using Gemini (Google Generative AI)
+#  RAG-Based Chatbot using Gemini (Google Generative AI)
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -7,23 +7,23 @@
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot powered by **Google Gemini (Generative AI)**. It enables users to upload PDF documents and interact with a chatbot that provides highly relevant, context-aware answers based on those documents. It combines document parsing, vector search (via ChromaDB), and generative capabilities into one seamless user experience using Streamlit.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 📄 **PDF Upload Support**: Upload one or more PDF files to build a knowledge base.
-- 🧠 **Vector-Based Document Retrieval**: Uses ChromaDB to perform semantic similarity search using embeddings.
-- 🤖 **Gemini-Powered LLM**: Uses **Google Gemini Flash** for fast and accurate natural language responses.
-- 🗂️ **Memory Handling**: Maintains session-level chat history.
-- 🖥️ **Streamlit UI**: Clean and responsive chat interface with file uploader.
+-  **PDF Upload Support**: Upload one or more PDF files to build a knowledge base.
+-  **Vector-Based Document Retrieval**: Uses ChromaDB to perform semantic similarity search using embeddings.
+-  **Gemini-Powered LLM**: Uses **Google Gemini Flash** for fast and accurate natural language responses.
+-  **Memory Handling**: Maintains session-level chat history.
+-  **Streamlit UI**: Clean and responsive chat interface with file uploader.
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Tool                         | Purpose                                                  |
 |------------------------------|----------------------------------------------------------|
@@ -36,7 +36,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot power
 
 ---
 
-## ⚙️ Setup and Installation
+##  Setup and Installation
 
 ### 1. Clone the Repository
 
